@@ -1,3 +1,3 @@
-FROM traefik:v3.3.6
+FROM traefik:v3.4.1
 
 COPY traefik.yml /traefik.yml
