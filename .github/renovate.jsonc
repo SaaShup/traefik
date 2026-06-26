@@ -1,0 +1,13 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "branchPrefix": "chore/",
+    "semanticCommits": "enabled",
+    "reviewers": [
+        "fanshan"
+    ],
+    "minimumReleaseAge": "2 days",
+    // Default settings if not specified above.
+    "extends": [
+      "config:recommended"
+    ]
+}
